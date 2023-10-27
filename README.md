@@ -56,6 +56,6 @@ Marketing teams need to assess the performance of their campaigns to make inform
 
 ## Usage
 
-This project provides valuable insights for marketing teams to make data-driven decisions. SQL queries used for analysis are provided in the project's SQL files.
+This project provides valuable insights for marketing teams to make data-driven decisions. 
 
 Feel free to contribute to this project by improving the analysis, adding more metrics, or sharing your insights.
